@@ -1,8 +1,3 @@
----
-cover: .gitbook/assets/CeLeBrUm_logo.png
-coverY: 0
----
-
 # Page
 
 1. Introduction CeLeBrUm AI is the pinnacle of SCRDE's technological advancement, a sophisticated AI model designed to bolster the capabilities of CyberSentinel ProTech and Full Suite. CeLeBrUm stands as a testament to human ingenuity, safeguarding not just data but destinies, through intelligent threat detection, adaptive protection, and visionary applications from digital realms to cosmic ventures.
